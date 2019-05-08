@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -198,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in Project110 (2)">
+  <component name="RunManager" selected="JUnit.All in Project110 (3)">
     <configuration name="All in Project110 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <option name="PACKAGE_NAME" value="" />
@@ -215,7 +215,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in Project110" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in Project110 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -223,17 +223,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FahrenheitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in Project110" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
-      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.FahrenheitTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -254,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in Project110 (3)" />
         <item itemvalue="JUnit.All in Project110 (2)" />
         <item itemvalue="JUnit.All in Project110 (1)" />
         <item itemvalue="JUnit.All in Project110" />
         <item itemvalue="JUnit.edu.ucsd.cs110.tests in Project110" />
-        <item itemvalue="JUnit.FahrenheitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -273,14 +266,11 @@
       <option name="presentableId" value="Default" />
       <updated>1556742364013</updated>
       <workItem from="1556742368678" duration="3350000" />
-      <workItem from="1557271029853" duration="9930000" />
+      <workItem from="1557271029853" duration="10942000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CelsiusTest - 2019.05.07 at 17h 03m 12s.xml">
-      <configuration name="CelsiusTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FahrenheitTest - 2019.05.07 at 17h 03m 26s.xml">
       <configuration name="FahrenheitTest" configurationId="JUnit" />
     </history-entry>
@@ -308,15 +298,18 @@
     <history-entry file="All_in_Project110_(2) - 2019.05.08 at 02h 39m 45s.xml">
       <configuration name="All in Project110 (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_Project110_(3) - 2019.05.08 at 02h 52m 43s.xml">
+      <configuration name="All in Project110 (3)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13280000" />
+    <option name="totallyTimeSpent" value="14292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="751" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25669956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25669956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,7 +318,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292517" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,7 +471,7 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
