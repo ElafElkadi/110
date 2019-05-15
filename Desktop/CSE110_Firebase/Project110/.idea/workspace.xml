@@ -39,17 +39,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#147#148#0" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
                 <element signature="e#228#229#0" expanded="true" />
                 <element signature="e#264#265#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -88,11 +98,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Temperature.class">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -280,14 +285,11 @@
       <updated>1556742364013</updated>
       <workItem from="1556742368678" duration="3350000" />
       <workItem from="1557271029853" duration="12367000" />
-      <workItem from="1557916136790" duration="1398000" />
+      <workItem from="1557916136790" duration="2038000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_Project110 - 2019.05.08 at 02h 03m 39s.xml">
-      <configuration name="All in Project110" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_Project110_(1) - 2019.05.08 at 02h 34m 26s.xml">
       <configuration name="All in Project110 (1)" configurationId="JUnit" />
     </history-entry>
@@ -315,12 +317,16 @@
     <history-entry file="All_in_Project110_(2) - 2019.05.15 at 03h 48m 39s.xml">
       <configuration name="All in Project110 (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_Project110_(2) - 2019.05.15 at 13h 52m 14s.xml">
+      <configuration name="All in Project110 (2)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17115000" />
+    <option name="totallyTimeSpent" value="17755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="751" height="827" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26375178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -386,14 +392,6 @@
     <entry file="file://$PROJECT_DIR$/Project110.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.classpath">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -446,13 +444,21 @@
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#147#148#0" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
             <element signature="e#264#265#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
