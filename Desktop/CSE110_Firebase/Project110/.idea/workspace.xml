@@ -17,20 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.classpath">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Celsius.class">
           <provider selected="true" editor-type-id="text-editor" />
@@ -39,6 +25,69 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Fahrenheit.class">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="664">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -52,23 +101,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project110.iml">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -112,24 +146,6 @@
             <path>
               <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project110" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project110" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project110" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs110" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project110" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs110" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
@@ -183,15 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.edu.ucsd.cs110 in Project110">
-    <configuration name="All in Project110 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project110" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.All in Project110 (2)">
     <configuration name="All in Project110 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <option name="PACKAGE_NAME" value="" />
@@ -201,14 +209,6 @@
       </method>
     </configuration>
     <configuration name="All in Project110 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project110" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in Project110" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -230,13 +230,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="edu.ucsd.cs110.temperature in Project110" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.temperature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.temperature" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.ucsd.cs110.tests in Project110" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in Project110 (2)" />
+        <item itemvalue="JUnit.edu.ucsd.cs110.tests in Project110" />
+        <item itemvalue="JUnit.edu.ucsd.cs110.temperature in Project110" />
         <item itemvalue="JUnit.edu.ucsd.cs110 in Project110" />
         <item itemvalue="JUnit.All in Project110 (3)" />
-        <item itemvalue="JUnit.All in Project110 (2)" />
-        <item itemvalue="JUnit.All in Project110 (1)" />
-        <item itemvalue="JUnit.All in Project110" />
       </list>
     </recent_temporary>
   </component>
@@ -252,23 +280,11 @@
       <updated>1556742364013</updated>
       <workItem from="1556742368678" duration="3350000" />
       <workItem from="1557271029853" duration="12367000" />
-      <workItem from="1557916136790" duration="289000" />
+      <workItem from="1557916136790" duration="1398000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FahrenheitTest - 2019.05.07 at 17h 05m 26s.xml">
-      <configuration name="FahrenheitTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.05.07 at 17h 12m 56s.xml">
-      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.05.08 at 01h 25m 16s.xml">
-      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.05.08 at 02h 03m 27s.xml">
-      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_Project110 - 2019.05.08 at 02h 03m 39s.xml">
       <configuration name="All in Project110" configurationId="JUnit" />
     </history-entry>
@@ -287,9 +303,21 @@
     <history-entry file="edu_ucsd_cs110_in_Project110 - 2019.05.15 at 03h 29m 13s.xml">
       <configuration name="edu.ucsd.cs110 in Project110" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_in_Project110 - 2019.05.15 at 03h 47m 56s.xml">
+      <configuration name="edu.ucsd.cs110 in Project110" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_ucsd_cs110_temperature_in_Project110 - 2019.05.15 at 03h 48m 14s.xml">
+      <configuration name="edu.ucsd.cs110.temperature in Project110" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.05.15 at 03h 48m 22s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Project110_(2) - 2019.05.15 at 03h 48m 39s.xml">
+      <configuration name="All in Project110 (2)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16006000" />
+    <option name="totallyTimeSpent" value="17115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="751" height="827" extended-state="0" />
@@ -329,40 +357,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -370,6 +364,49 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Temperature.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/TemperatureConverter.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project110.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Celsius.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Fahrenheit.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -388,7 +425,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="664">
           <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -396,57 +433,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Celsius.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="327">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
           <folding>
-            <element signature="e#0#530#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Fahrenheit.class">
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#0#535#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Temperature.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#443#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/TemperatureConverter.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project110.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
         </state>
       </provider>
     </entry>
